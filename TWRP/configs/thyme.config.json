@@ -5,12 +5,12 @@
             "Branch": "12.1"
         },
         "Device": {
-            "Repo": "https://codeberg.org/DogDayAndroid/twrp_device_xiaomi_thyme",
-            "Branch": "android-13",
-            "Location": "device/xiaomi/thyme",
-            "DeviceName": "thyme",
-            "Makefile": "twrp_thyme",
-            "BootPartition": "boot"
+            "Repo": "https://github.com/ben443/android_twrp_samsung_r8q.git",
+            "Branch": "master",
+            "Location": "device/samsung/r8q",
+            "DeviceName": "r8q",
+            "Makefile": "twrp_r8q",
+            "BootPartition": "recovery"
         }
     }
 ]
