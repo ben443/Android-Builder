@@ -1,8 +1,8 @@
 [
   {
     "kernelSource": {
-      "name": "Xiaomi10S（Proton）",
-      "repo": "https://github.com/Svirusx/Nethunter-Kernel-S20_FE_5G",
+      "name": "samsung-r8q （Proton）",
+      "repo": "https://github.com/ben443/Nethunter-Kernel-S20_FE_5G",
       "branch": "nethunter-13.0",
       "device": "s20fe",
       "defconfig": "wirus_defconfig"
