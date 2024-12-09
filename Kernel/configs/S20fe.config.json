@@ -1,7 +1,7 @@
 [
   {
     "kernelSource": {
-      "name": "samsung-r8q （Proton）",
+      "name": "samsung-r8q-nh",
       "repo": "https://github.com/ben443/Nethunter-Kernel-S20_FE_5G",
       "branch": "nethunter-13.0",
       "device": "s20fe",
