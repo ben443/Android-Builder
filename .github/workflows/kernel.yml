@@ -65,7 +65,7 @@ jobs:
       CONFIRM_RELEASE: ${{ matrix.CONFIG.AnyKernel3.release }}
 
       # Whether to enable KernelSU
-      ENABLE_KERNELSU: ${{ matrix.CONFIG.enableKernelSU }}
+      #ENABLE_KERNELSU: ${{ matrix.CONFIG.enableKernelSU }}
 
       # Whether to enable LXC docker
       ENABLE_LXC: ${{ matrix.CONFIG.enableLXC }}
