@@ -1,11 +1,11 @@
 [
   {
     "kernelSource": {
-      "name": "samsung-r8q",
-      "repo": "https://github.com/Lkewq/S20FE",
+      "name": "samsung-s20",
+      "repo": "https://github.com/ExtremeXT/android_kernel_samsung_exynos990",
       "branch": "main",
-      "device": "r8q",
-      "defconfig": "halium_defconfig"
+      "device": "z3s",
+      "defconfig": "extreme_z3s_defconfig extreme.config"
     },
     "toolchains": [
       {
