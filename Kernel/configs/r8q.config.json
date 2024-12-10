@@ -2,10 +2,10 @@
   {
     "kernelSource": {
       "name": "samsung-r8q",
-      "repo": "https://github.com/ben443/android_kernel_samsung_sm8250_Klimbo-plus",
+      "repo": "https://github.com/Lkewq/S20FE",
       "branch": "main",
       "device": "r8q",
-      "defconfig": "chanz_defconfig"
+      "defconfig": "halium_defconfig"
     },
     "toolchains": [
       {
