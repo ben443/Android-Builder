@@ -1,15 +1,18 @@
-[
-  {
-    "kernelSource": {
-      "name": "samsung-r8q-nh",
+{
+  "buildConfig": {
+    "kernelConfig": {
+    "name": "samsung-r8q-nh",
       "repo": "https://github.com/ben443/Nethunter-Kernel-S20_FE_5G",
       "branch": "nethunter-13.0",
       "device": "s20fe",
-      "defconfig": "r8q_defconfig"
-   
-   {
-      "compilerToolchains": {
+      "defconfig": "wirus_defconfig"
     },
+    "anykernel3Config": {
+      "repo": "https://github.com/internetuser111/AnyKernel3",
+      "branch": "op7-nh"
+    }
+  },
+  "compilerToolchains": [
     {
       "id": 1,
       "name": "Proton Clang",
@@ -88,4 +91,4 @@
       "branch": "gray-master"
     }
   ]
-    }
+}
